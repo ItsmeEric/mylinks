@@ -36,7 +36,7 @@ This project is an aggregated links for a developer to share his social medias l
 
 ## 🔖 Layout
 
-You can visualize the project here [THIS LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). You must have a figma account [Figma](https://figma.com) to have access to it.
+You can visualize the project here [THIS LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). You must have a [Figma](https://figma.com) account to have access to it.
 
 ## :memo: License
 
